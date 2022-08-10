@@ -1,0 +1,20 @@
+.body_background {
+    background-image: url("photo-1534796636912-3b95b3ab5986.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#Andromeda_img {
+    border-width: 8;
+    border-color: black;
+}
+
+.font {
+    color: azure;
+    font-family: fantasy;
+}
+
+.heading {
+    color: ghostwhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
